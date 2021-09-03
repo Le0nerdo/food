@@ -7,4 +7,5 @@ I was told that recipes are code.
 `@` Depends fully on you preferences.  
 
 # Recepies
-* [Hamburger Steak](/hamburger-steak.md)
+* [Hamburger Steak (60 min)](/hamburger-steak.md)
+* [Chicken and Rice (1-3 meals, 10 + 120 min)](/chicken-and-rice.md)
