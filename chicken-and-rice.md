@@ -1,4 +1,4 @@
-# Chicken and Rice (1-3 meals, 10 + 120 min)
+# Chicken and Rice (1-3 meals, 20 + 120 min)
 
 ## Ingredients
 * 2.5 dl rice `*`
